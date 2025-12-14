@@ -1,112 +1,152 @@
-# Working in han's team
+# Han's Readme
 
-This is not a rule book, but a place to look up and familiarize yourself with my values, beliefs and modus operandi. I hope this readme faciliates and accelerates the initial forming, storming and norming so that we can get to the fun part faster.
+This is **NOT** a rule book, but rather a "cheat sheet" to help you familiarize yourself with my values, beliefs, and how I operate. I hope this guide helps us accelerate the introductory phase so we can get to the fun part faster.
 
-## About my current situation
+## General Availability
 
-- I drive my daugther to kindergarten each day around 8:30 CET (2pm IST), so 20min before and after, I'm on the road
-- I usually start working on 8:45-9am
+Some general information to facilitate remote work:
 
-## Time managment
-Time is the only thing we can't get more of, thus I highly value everyone's time and people who respect my time.
+- **Start Time:** I start my work day around 9:00 CET (13:30 IST). Between 8:00 and 9:00 CET, I am driving my daughter to kindergarten. Meetings before 8:00 (12:30 IST) are possible.
+- **End Time:** I finish at 17:00 CET (21:30 IST) because I need to cook dinner, though I sometimes continue in the evenings after 21:00.
+- **Meetings:** I reserve dedicated slots in my calendar every day specifically for my team—please use them!
+- **Teams/Slack:** Notifications are turned off, but I check them regularly. Check out this [medium article](https://medium.com/@hanche2001/the-ux-behind-async-messages-022024348c77) on my thoughts on async messages.
+- **Weekly 1:1s:** 30 minutes per week with each team member, focusing on personal development and preferably not on operational business.
 
-I always have dedicated slots reserved each day for my team members. I prefer to have these slots in the morning and after lunch of where I'm based (currently CET) and they are most often used by my team members to "unblock" themselves. 
+## My Values
 
-I usually manage my calendar at least 1 week in advance. If you cannot find an open slot and it is urgent, please don't hesitate to call me.
+### How I Communicate
 
-## 1:1
-I like to have a 30min weekly with each of my team members. This is your time, please make it about you, your current status/situtation/growth,... Otherwise my focus will mostly be on your personal development. I prefer not to use this time to talk about operational business, unless there is a need.
+- **I ask "Why?" a lot:** Coming from a product/startup background, I am very curious. If I ask "Why did you do it this way?", I am not criticizing you. I am simply trying to learn from you.
+- **Silence is okay:** If I ask a question and you need time to think, that is fine. You can always get back to me later.
 
-## Feedback
-I am 100% open for feedback, the timelier the better. If you feel **for whatever reason** you are not able or comfortable to give it to me personally, please do tell it to a colleague or even my team lead. I cannot adapt, if I don't know what to change.
+### Focus time
+I highly value everyone's focus time and people who show respect for mine.
 
-You will receive feedback from me always private in 1:1, praises will always be public (unless you don't want it).
+I usually plan my focus times in my calendar at least one week in advance. However, if you cannot find an open slot and the matter is urgent, **please do not hesitate to call me.**
 
-### Giving Feedback
+### Feedback
+I am 100% open to feedback — the timelier, the better. I will never admonish you for giving me honest feedback. Why would I? You're helping me grow.
 
-1. Timely - as immediate as the situation and place allows
-2. Specific - focus on specifics and behaviours, do not generalize or get personal
-3. Constructive - suggest what I would have done differently and why
+If you feel unable or uncomfortable giving feedback to me personally for **any reason**, please share it with a colleague, my team lead, or even HR. I want to know because I cannot adapt if I don't know what needs to change.
 
-### Receiving Feedback
+**My promise to you:** You will receive frequent, honest, and constructive feedback from me, with the intent to help you grow. Praise will be public, and criticism will always be private.
 
-1. Clarify, don't justify 
-2. Right to discard - feedback is a gift, but it's not always right. Reflect and take what's best for you and discard the rest
+Here is my mental model on great feedback:
 
-## My Media
-
-I watch a lot of (pseudo)-educational videos on Youtube. Here's a list of videos I love and channels I follow.
-
-### Engineering
-
-- [Modern Software Engineering](https://www.youtube.com/@ModernSoftwareEngineeringYT)
-    - [The Secrets to Being an AWESOME Tech Lead](https://www.youtube.com/watch?v=TfBUPu5_G6A)
-
-### Leadership
-
-- [A Guide To Managing Technical Teams](https://www.youtube.com/watch?v=jMpCF0Z623s)
-- [How Great Leaders Inspire Action | Simon Sinek | TED](https://www.youtube.com/watch?v=qp0HIF3SfI4)
-- [The Power of Vulnerability | Brené Brown | TED](https://www.youtube.com/watch?v=iCvmsMzlF7o)
-
-### Nerd Stuff
-
-- [Fireship](https://www.youtube.com/@Fireship)
-- [The Friday Checkout](https://www.youtube.com/@TheFridayCheckout)
-- [Veritasium](https://www.youtube.com/@veritasium)
-- [Numberphile](https://www.youtube.com/@numberphile)
-
-
-# Working in Han's Team
-
-This isn't a rule book, but rather a "user manual" to help you familiarize yourself with my values, beliefs, and how I operate. I hope this guide helps us skip the awkward introductory phase so we can get to the fun part faster.
-
-## About My Schedule
-
-- **The School Run:** I drive my daughter to kindergarten around 8:30 AM CET (2 PM IST). Please expect me to be offline/on the road for about 20 minutes before and after this time.
-- **Start Time:** I usually start my work day between 8:45 and 9:00 AM CET.
-
-## Time Management
-Time is our most finite resource, so I highly value efficiency and respecting each other's schedules.
-
-I reserve dedicated slots every day specifically for the team. I prefer to schedule these in the morning and after lunch (CET). Please utilize these times to "unblock" yourself if you are stuck.
-
-I usually plan my calendar at least one week in advance. However, if you cannot find an open slot and the matter is urgent, **please do not hesitate to call me.**
-
-## 1:1 Meetings
-I schedule a weekly 30-minute sync with each team member. **This is your time.** Please make it about you—your current status, well-being, and career growth.
-
-Unless there is a pressing need, I prefer not to use this time for operational business updates. My goal in these meetings is to focus on your personal development.
-
-## Feedback
-I am 100% open to feedback—the timelier, the better.
-
-If you feel unable or uncomfortable giving feedback to me personally for any reason, please share it with a colleague or even my team lead. I cannot adapt if I don't know what needs to change.
-
-**My promise to you:** You will always receive critical feedback from me in private (1:1). Praise will always be public (unless you explicitly ask otherwise).
-
-### Giving Feedback
+**Giving Feedback**
 1.  **Timely:** As immediate as the situation and setting allow.
-2.  **Specific:** Focus on specific behaviors and outcomes; please do not generalize or make it personal.
-3.  **Constructive:** Suggest what I could have done differently and why.
+2.  **Specific:** Focus on specific behaviors and concrete situations, not hypotheticals.
+3.  **Subjective:** Suggest what I could have done differently and why, so I can reflect.
 
-### Receiving Feedback
-1.  **Clarify, don't justify:** Seek to understand the perspective before defending.
+**Receiving Feedback**
+1.  **Clarify, don't justify:** Seek to understand instead of letting your ego rule.
 2.  **Reflect and filter:** Feedback is a gift, but it’s not always right. Reflect on it, take what is useful for your growth, and discard the rest.
 
-## My Media
-I watch a lot of (pseudo)-educational videos on YouTube. If you want to know what I find interesting, here is a list of videos I love and channels I follow.
+This article matches my mental model quite well:
+[The Do’s & Don’ts of Giving and Receiving Effective Feedback](https://crestcom.com/blog/2023/10/06/the-dos-donts-of-giving-and-receiving-effective-feedback/)
+
+### Ownership & Accountability
+
+**My Philosophy**: You drive, I navigate. I believe you do your best work when you have the freedom to drive your own topics. I want you to feel ownership of your code. However, I know that true ownership requires a safe environment.
+
+**Safety First**
+
+- **Mistakes happen**: We are building complex software. I will never blame you for an honest mistake, but I will hold you accountable for hiding them. I focus on fixing the process, not blaming the person.
+- **Bad News Travels Fast:** If something breaks or a deadline is at risk, tell me **immediately**. I am here to help you put out the fire, not to judge you for the spark.
+- **Ask for help:** It is not a weakness to ask for help; it is a strength. If you are stuck for more than 1 hour, please reach out.
+
+
+**Growing into Accountability**
+- **Proactive vs. Reactive:** You are the experts on the code you write. If you see a way to improve our code or process, please tell me. I want to hear your ideas.
+- **My Role:** My job is to unblock you, provide context, and handle the politics. Your job is to focus on the technology.
+
+## About Me
+
+Below you'll find quite a long lists of personal interests.
+
+### Hobbies
+
+#### Boardgame
+
+I love (complex) euro board games. What I love even more is to analyze the system design and discover/exploit unbalanced rules/strategies.
+
+My top 5 favourite board games are 
+
+1. [SETI](https://boardgamegeek.com/boardgame/418059/seti-search-for-extraterrestrial-intelligence)
+2. [Anachrony](https://boardgamegeek.com/boardgame/185343/anachrony)
+3. [Ark Nova](https://boardgamegeek.com/boardgame/342942/ark-nova)
+4. [Andromeda's Edge](https://boardgamegeek.com/boardgame/358661/andromedas-edge)
+5. [Galactic Cruise](https://boardgamegeek.com/boardgame/391137/galactic-cruise).
+
+[My BGG Account](https://boardgamegeek.com/profile/Aavelyn)
+
+#### Video Games
+
+I love single player RPGs, because they transport me into another world. Apart from that I love indie rougelikes/lite.
+
+My top 10 favourite video games are 
+
+1. Cyberpunk 2077
+2. Baldur's Gate 2
+3. Mass Effect Trilogy
+4. Clair Obscur: Expedition 33
+5. Slay the Spire
+6. Hades 2, Hades 1
+7. Civilization 5, 6
+8. Baldurs's Gate 3
+9. Fire Emblem: Three Houses
+10. Persona 5 Royal
+
+
+#### Movies/TV
+
+1. Everything Christopher or Jonathan Nolan
+2. Evertyhing Star Wars (Before Disney)
+3. Harry Potter
+4. Sci-fi/Fantasy
+
+
+### YouTube
+
+I watch a lot of (pseudo)-educational videos on YouTube. Here is a list of videos I love and channels I follow.
 
 ### Engineering
 - [Modern Software Engineering](https://www.youtube.com/@ModernSoftwareEngineeringYT)
     - [The Secrets to Being an AWESOME Tech Lead](https://www.youtube.com/watch?v=TfBUPu5_G6A)
+    - [A Guide To Managing Technical Teams](https://www.youtube.com/watch?v=jMpCF0Z623s)
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+- [Fireship](https://www.youtube.com/@Fireship)
+- [AI Engineer](https://www.youtube.com/@aiDotEngineer)
+    - [The New Code — Sean Grove, OpenAI](https://www.youtube.com/watch?v=8rABwKRsec4)
+    - [No Vibes Allowed: Solving Hard Problems in Complex Codebases – Dex Horthy, HumanLayer](https://www.youtube.com/watch?v=rmvDxxNubIg)
+- [Decoded Frontend (Angular)](https://www.youtube.com/@DecodedFrontend)
+- [Matt Pocock (Typescript)](https://www.youtube.com/@mattpocockuk)
 
 ### Leadership
-- [A Guide To Managing Technical Teams](https://www.youtube.com/watch?v=jMpCF0Z623s)
-- [How Great Leaders Inspire Action | Simon Sinek | TED](https://www.youtube.com/watch?v=qp0HIF3SfI4)
+
+- [Simon Sinek](https://www.youtube.com/@SimonSinek)
+    - [How Great Leaders Inspire Action | Simon Sinek | TED](https://www.youtube.com/watch?v=qp0HIF3SfI4)
 - [The Power of Vulnerability | Brené Brown | TED](https://www.youtube.com/watch?v=iCvmsMzlF7o)
 
 ### Nerd Stuff
-- [Fireship](https://www.youtube.com/@Fireship)
+
 - [The Friday Checkout](https://www.youtube.com/@TheFridayCheckout)
 - [Veritasium](https://www.youtube.com/@veritasium)
 - [Numberphile](https://www.youtube.com/@numberphile)
+- [The Friday Checkout](https://www.youtube.com/@TheFridayCheckout)
+- [Mark Rober](https://www.youtube.com/@MarkRober)
+- [Economics Explained](https://www.youtube.com/@EconomicsExplained)
+
+### Documentations
+
+- [Johnny Harris](https://www.youtube.com/@johnnyharris)
+- [Howtown](https://www.youtube.com/@Howtown)
+- [Elephants in Rooms](https://www.youtube.com/@ElephantsInRooms)
+
+### Fun Stuff
+
+- [Jimmy Kimmel Live](https://www.youtube.com/@JimmyKimmelLive)
+- [LastWeekTonight](https://www.youtube.com/@LastWeekTonight)
+- [Uncle Roger](https://www.youtube.com/@mrnigelng)
+- [The Dice Tower](https://www.youtube.com/@thedicetower)
+- [Don McMillan](https://www.youtube.com/@donmcmillancomedy)
