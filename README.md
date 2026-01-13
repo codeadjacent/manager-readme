@@ -89,13 +89,13 @@ My top 10 favourite video games are
 1. Cyberpunk 2077
 2. Baldur's Gate 2
 3. Mass Effect Trilogy
-4. Clair Obscur: Expedition 33
-5. Slay the Spire
-6. Hades 2, Hades 1
-7. Civilization 5, 6
-8. Baldurs's Gate 3
-9. Fire Emblem: Three Houses
-10. Persona 5 Royal
+4. XCOM 2 Long War
+5. Clair Obscur: Expedition 33
+6. Slay the Spire
+7. Hades 2, Hades 1
+8. Civilization 5, 6
+9. Baldurs's Gate 3
+10. Fire Emblem: Three Houses
 
 
 #### Movies/TV
