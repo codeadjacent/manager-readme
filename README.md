@@ -110,15 +110,24 @@ My top 10 favourite video games are
 
 I watch a lot of (pseudo)-educational videos on YouTube. Here is a list of videos I love and channels I follow.
 
+### AI
+- [Matt Pocock](https://www.youtube.com/@mattpocockuk)
+    - [5 Claude Code skills I use every single day](https://www.youtube.com/watch?v=EJyuu6zlQCg) 
+- [IBM](https://www.youtube.com/@IBMTechnology)
+    - [Five AI Risks That Can Get You Fired](https://www.youtube.com/watch?v=1m55T8xST9s)
+- [Google](https://www.youtube.com/@GoogleDevelopers)
+    - [Software engineering at the tipping point](https://www.youtube.com/watch?v=2n41YjR5QfU)  
+- [AI Engineer](https://www.youtube.com/@aiDotEngineer)
+    - [The New Code — Sean Grove, OpenAI](https://www.youtube.com/watch?v=8rABwKRsec4)
+    - [No Vibes Allowed: Solving Hard Problems in Complex Codebases – Dex Horthy, HumanLayer](https://www.youtube.com/watch?v=rmvDxxNubIg)
+
 ### Engineering
+- [LearnThatStack](https://www.youtube.com/@LearnThatStack)
 - [Modern Software Engineering](https://www.youtube.com/@ModernSoftwareEngineeringYT)
     - [The Secrets to Being an AWESOME Tech Lead](https://www.youtube.com/watch?v=TfBUPu5_G6A)
     - [A Guide To Managing Technical Teams](https://www.youtube.com/watch?v=jMpCF0Z623s)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - [Fireship](https://www.youtube.com/@Fireship)
-- [AI Engineer](https://www.youtube.com/@aiDotEngineer)
-    - [The New Code — Sean Grove, OpenAI](https://www.youtube.com/watch?v=8rABwKRsec4)
-    - [No Vibes Allowed: Solving Hard Problems in Complex Codebases – Dex Horthy, HumanLayer](https://www.youtube.com/watch?v=rmvDxxNubIg)
 - [Decoded Frontend (Angular)](https://www.youtube.com/@DecodedFrontend)
 - [Matt Pocock (Typescript)](https://www.youtube.com/@mattpocockuk)
 
