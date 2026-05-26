@@ -10,13 +10,13 @@ Some general information to facilitate remote work:
 - **End Time:** I finish at 17:00 CET (21:30 IST) because I need to cook dinner, though I sometimes continue in the evenings after 21:00.
 - **Meetings:** I reserve dedicated slots in my calendar every day specifically for my team—please use them!
 - **Teams/Slack:** Notifications are turned off, but I check them regularly. Check out this [medium article](https://medium.com/@hanche2001/the-ux-behind-async-messages-022024348c77) on my thoughts on async messages.
-- **Weekly 1:1s:** 30 minutes per week with each team member, focusing on personal development and preferably not on operational business.
+- **1:1s:** at least 30min per week/month with each team member, focusing on personal development, while not talking about operational business.
 
 ## My Values
 
 ### How I Communicate
 
-- **I ask "Why?" a lot:** Coming from a product/startup background, I am very curious. If I ask "Why did you do it this way?", I am not criticizing you. I am simply trying to learn from you.
+- **I ask "Why?" a lot:** Coming from a product/startup background, I am very curious. If I ask "Why did you do it this way?", I am not criticizing or blaming you. I am simply trying to understand.
 - **Silence is okay:** If I ask a question and you need time to think, that is fine. You can always get back to me later.
 
 ### Focus time
@@ -68,7 +68,7 @@ Below you'll find quite a long lists of personal interests.
 
 #### Boardgame
 
-I love (complex) euro board games. What I love even more is to analyze the system design and discover/exploit unbalanced rules/strategies.
+I love (complex) euro board games, ideally space themed. What I love even more is to analyze the game's (system) design and discover/exploit unbalanced rules/strategies.
 
 My top 5 favourite board games are 
 
@@ -82,28 +82,33 @@ My top 5 favourite board games are
 
 #### Video Games
 
-I love single player RPGs, because they transport me into another world. Apart from that I love indie rougelikes/lite.
+I love single player RPGs, because they transport me into another world for a limited time. Apart from that I love indie rougelikes/lites.
 
 My top 10 favourite video games are 
 
 1. Cyberpunk 2077
-2. Baldur's Gate 2
+2. Baldur's Gate 2 + 3
 3. Mass Effect Trilogy
 4. XCOM 2 Long War
 5. Clair Obscur: Expedition 33
-6. Slay the Spire
-7. Hades 2, Hades 1
+6. Slay the Spire 1 + 2
+7. Hades 1 + 2
 8. Civilization 5, 6
-9. Baldurs's Gate 3
+9. Xenoblade Chronicle 1 + 3
 10. Fire Emblem: Three Houses
 
 
-#### Movies/TV
+#### Movies/TV/Books
 
 1. Everything Christopher or Jonathan Nolan
 2. Evertyhing Star Wars (Before Disney)
-3. Harry Potter
-4. Sci-fi/Fantasy
+3. Everything Brandon Sanderson
+    - Stormlight Archive
+    - Mistborn
+    - Reckoners
+4. Harry Potter
+   - I actually have a scar on my forehead and I used to do card magic...
+6. Sci-fi(Space)/Fantasy(Epic, High)
 
 
 ### YouTube
@@ -111,8 +116,7 @@ My top 10 favourite video games are
 I watch a lot of (pseudo)-educational videos on YouTube. Here is a list of videos I love and channels I follow.
 
 ### AI
-- [Matt Pocock](https://www.youtube.com/@mattpocockuk)
-    - [5 Claude Code skills I use every single day](https://www.youtube.com/watch?v=EJyuu6zlQCg) 
+
 - [IBM](https://www.youtube.com/@IBMTechnology)
     - [Five AI Risks That Can Get You Fired](https://www.youtube.com/watch?v=1m55T8xST9s)
 - [Google](https://www.youtube.com/@GoogleDevelopers)
@@ -120,6 +124,8 @@ I watch a lot of (pseudo)-educational videos on YouTube. Here is a list of video
 - [AI Engineer](https://www.youtube.com/@aiDotEngineer)
     - [The New Code — Sean Grove, OpenAI](https://www.youtube.com/watch?v=8rABwKRsec4)
     - [No Vibes Allowed: Solving Hard Problems in Complex Codebases – Dex Horthy, HumanLayer](https://www.youtube.com/watch?v=rmvDxxNubIg)
+- [Matt Pocock](https://www.youtube.com/@mattpocockuk)
+    - [5 Claude Code skills I use every single day](https://www.youtube.com/watch?v=EJyuu6zlQCg) 
 
 ### Engineering
 - [LearnThatStack](https://www.youtube.com/@LearnThatStack)
@@ -129,7 +135,6 @@ I watch a lot of (pseudo)-educational videos on YouTube. Here is a list of video
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - [Fireship](https://www.youtube.com/@Fireship)
 - [Decoded Frontend (Angular)](https://www.youtube.com/@DecodedFrontend)
-- [Matt Pocock (Typescript)](https://www.youtube.com/@mattpocockuk)
 
 ### Leadership
 
